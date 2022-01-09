@@ -2,7 +2,7 @@ import React from 'react';
 
 const App = () => {
   return (
-    <h1 data-cy="wiki-viewer-header">Hello world</h1>
+    <h1 data-cy="wiki-viewer-header">Wikipedia Search</h1>
   );
 };
 
