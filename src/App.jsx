@@ -14,7 +14,7 @@ const App = () => {
       <Fab data-cy="search-article-btn" color="primary" 
         variant="extended" sx={{ m: 1 }}>
         <SearchIcon />
-        <InputBase placeholder="Search" sx={{ m: 1, color: 'white' }} />
+        <InputBase data-cy="search-article-input" placeholder="Search" sx={{ m: 1, color: 'white' }} />
       </Fab>
     </Container>
   );
