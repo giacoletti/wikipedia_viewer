@@ -1,9 +1,12 @@
 import React, { useState } from 'react';
+import { useDispatch } from 'react-redux';
 import { Fab, InputBase } from '@mui/material';
 import ShuffleIcon from '@mui/icons-material/Shuffle';
 import SearchIcon from '@mui/icons-material/Search';
+import WikipediaAPI from '../modules/WikipediaAPI';
 
 const WikipediaSearch = () => {
+  const dispatch = useDispatch();
   const [wikiSearch, setWikiSearch] = useState();
 
   const handleChange = (event) => {
@@ -13,6 +16,7 @@ const WikipediaSearch = () => {
   const handleOnEnter = async (event) => {
     if (event.key === 'Enter') {
       // make wikipedia api call
+      dispatch(WikipediaAPI.wikiPagesSearch(wikiSearch))
     }
   }
 
