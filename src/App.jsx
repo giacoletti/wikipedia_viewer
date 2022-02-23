@@ -1,5 +1,6 @@
 import React from 'react';
 import WikipediaSearch from './components/WikipediaSearch';
+import WikipediaResults from './components/WikipediaResults';
 import { Container } from '@mui/material';
 
 const App = () => {
@@ -8,6 +9,7 @@ const App = () => {
     <Container>
       <h1 data-cy="wiki-viewer-header">Wikipedia Search</h1>
       <WikipediaSearch />
+      <WikipediaResults/>
     </Container>
   );
 };

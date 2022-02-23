@@ -1,0 +1,127 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "gsroffset": 10,
+    "continue": "gsroffset||"
+  },
+  "query": {
+    "pages": {
+      "216033": {
+        "pageid": 216033,
+        "ns": 0,
+        "title": "Panzer II",
+        "index": 4,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Panzer_II_Saumur.JPG/50px-Panzer_II_Saumur.JPG",
+          "width": 50,
+          "height": 33
+        },
+        "pageimage": "Panzer_II_Saumur.JPG",
+        "extract": "The Panzer II is the common name used for a family of German tanks used in World War II. The official German designation was Panzerkampfwagen II (abbreviated PzKpfw II).Although the vehicle had originally been designed as a stopgap while larger, more advanced tanks were developed, it nonetheless went on to play an important role in the early years of World War II, during the Polish and French campaigns."
+      },
+      "241215": {
+        "pageid": 241215,
+        "ns": 0,
+        "title": "Panzer III",
+        "index": 8,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/PzKpfwIIIH.Saumur.000a1y8q.jpeg/50px-PzKpfwIIIH.Saumur.000a1y8q.jpeg",
+          "width": 50,
+          "height": 29
+        },
+        "pageimage": "PzKpfwIIIH.Saumur.000a1y8q.jpeg",
+        "extract": "The Panzerkampfwagen III, commonly known as the Panzer III, was a medium tank developed in the 1930s by Germany, and was used extensively in World War II. The official German ordnance designation was Sd.Kfz."
+      },
+      "241257": {
+        "pageid": 241257,
+        "ns": 0,
+        "title": "Panzer IV",
+        "index": 2,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Panzermuseum_Munster_2010_0128.JPG/50px-Panzermuseum_Munster_2010_0128.JPG",
+          "width": 50,
+          "height": 33
+        },
+        "pageimage": "Panzermuseum_Munster_2010_0128.JPG",
+        "extract": "The Panzerkampfwagen IV (Pz.Kpfw."
+      },
+      "349115": {
+        "pageid": 349115,
+        "ns": 0,
+        "title": "Panzer VIII Maus",
+        "index": 6,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Metro-maus1.jpg/50px-Metro-maus1.jpg",
+          "width": 50,
+          "height": 33
+        },
+        "pageimage": "Metro-maus1.jpg",
+        "extract": "Panzerkampfwagen VIII Maus (English: \"Mouse\") was a German World War II super-heavy tank completed in late 1944."
+      },
+      "1379751": {
+        "pageid": 1379751,
+        "ns": 0,
+        "title": "Panzerlied",
+        "index": 3,
+        "extract": "The Panzerlied (English: \"Tank Song\") was a Wehrmacht military march of the Nazi era, sung primarily by the Panzerwaffe, the tank force of Nazi Germany during World War II. It is one of the best-known songs of the Wehrmacht and was popularised by the 1965 film Battle of the Bulge."
+      },
+      "1399141": {
+        "pageid": 1399141,
+        "ns": 0,
+        "title": "German tanks in World War II",
+        "index": 1,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bundesarchiv_Bild_146-1975-102-14A%2C_Panzer_VI_%28Tiger_II%2C_K%C3%B6nigstiger%29.jpg/50px-Bundesarchiv_Bild_146-1975-102-14A%2C_Panzer_VI_%28Tiger_II%2C_K%C3%B6nigstiger%29.jpg",
+          "width": 50,
+          "height": 36
+        },
+        "pageimage": "Bundesarchiv_Bild_146-1975-102-14A,_Panzer_VI_(Tiger_II,_Königstiger).jpg",
+        "extract": "Nazi Germany developed numerous tank designs used in World War II. In addition to domestic designs, Germany also used various captured and foreign-built tanks.German tanks were an important part of the Wehrmacht and played a fundamental role during the whole war, and especially in the blitzkrieg battle strategy."
+      },
+      "1443258": {
+        "pageid": 1443258,
+        "ns": 0,
+        "title": "Panzer division (Wehrmacht)",
+        "index": 7,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Military_Symbol_-_Hostile_Unit_%28Monochrome_Dark_1.5x1_Frame%29-_Armour_%28NATO_APP-6%29.svg/50px-Military_Symbol_-_Hostile_Unit_%28Monochrome_Dark_1.5x1_Frame%29-_Armour_%28NATO_APP-6%29.svg.png",
+          "width": 50,
+          "height": 33
+        },
+        "pageimage": "Military_Symbol_-_Hostile_Unit_(Monochrome_Dark_1.5x1_Frame)-_Armour_(NATO_APP-6).svg",
+        "extract": "A panzer division was one of the armored (tank) divisions in the Wehrmacht of Nazi Germany during World War II. Panzer divisions were the key element of German success in the blitzkrieg operations of the early years of World War II. Later the Waffen-SS formed its own panzer divisions, and even the Luftwaffe fielded a panzer division: the Hermann Göring Division."
+      },
+      "1643319": {
+        "pageid": 1643319,
+        "ns": 0,
+        "title": "Panzer Lehr Division",
+        "index": 10,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/SS_Pz_Lehr_divisional_insignia.svg/42px-SS_Pz_Lehr_divisional_insignia.svg.png",
+          "width": 42,
+          "height": 50
+        },
+        "pageimage": "SS_Pz_Lehr_divisional_insignia.svg",
+        "extract": "The Panzer-Lehr-Division (in the meaning of: Armoured training division) was an elite German armoured division during World War II. It was formed in 1943 onwards from training and demonstration troops (Lehr = \"teach\") stationed in Germany, to provide additional armored strength for the anticipated Allied invasion of western Europe."
+      },
+      "6971590": {
+        "pageid": 6971590,
+        "ns": 0,
+        "title": "Panzer IX and Panzer X",
+        "index": 5,
+        "extract": "The Super-heavy tank Panzerkampfwagen IX and Panzerkampfwagen X were silhouette conceptual drawings in an edition of the German World War II Signal military magazine."
+      },
+      "35849607": {
+        "pageid": 35849607,
+        "ns": 0,
+        "title": "Girls und Panzer",
+        "index": 9,
+        "extract": "Girls und Panzer (ガールズ&パンツァー, Gāruzu ando Pantsā) (with the part in German translated: Girls and Tanks) (or abbreviated as GuP) is a Japanese anime franchise created by Actas which depicts a competition between girls' high schools practicing tank warfare as a sport."
+      }
+    }
+  },
+  "limits": {
+    "pageimages": 50,
+    "extracts": 20
+  }
+}

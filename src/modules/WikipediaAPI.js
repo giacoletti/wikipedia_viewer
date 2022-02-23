@@ -14,7 +14,7 @@ const WikipediaAPI = {
             generator: 'search',
             gsrnamespace: '0',
             gsrlimit: '10',
-            prop: 'pageimages|extract',
+            prop: 'pageimages|extracts',
             pilimit: 'max',
             exintro: '',
             explaintext: '',
@@ -23,7 +23,6 @@ const WikipediaAPI = {
             gsrsearch: query
           }
         });
-
         const resultsArray = [];
         // loop over object of objects
         for (const property in response.data.query.pages) {
