@@ -4,7 +4,8 @@ import {
   List,
   ListItem,
   ListItemText,
-  // ImageListItem,
+  ListItemAvatar,
+  Avatar,
   Divider,
   Typography
 } from "@mui/material";
@@ -12,18 +13,26 @@ import {
 const WikipediaResults = () => {
   const { searchResults } = useSelector((state) => state);
 
-  const searchResultsList = searchResults.map((searchItem) => {
+  const searchResultsList = searchResults.map((searchItem, index) => {
     return (
-      <>
+      <div key={searchItem.index}>
         <ListItem alignItems="flex-start">
-          {/* <ImageListItem sx={{ width: 100 }}>
-            <img src="" alt={searchItem.title} />
-          </ImageListItem> */}
+          {searchItem.thumbnail && (
+            <ListItemAvatar>
+              <Avatar
+                data-cy={`wikisearch-image-${index}`}
+                src={searchItem.thumbnail?.source}
+                alt={searchItem.title}
+              />
+            </ListItemAvatar>
+          )}
           <ListItemText
+            data-cy={`wikisearch-title-${index}`}
             primary={searchItem.title}
             secondary={
               <React.Fragment>
                 <Typography
+                  data-cy={`wikisearch-description-${index}`}
                   sx={{ display: "inline" }}
                   component="span"
                   variant="body2"
@@ -37,13 +46,13 @@ const WikipediaResults = () => {
           />
         </ListItem>
         <Divider variant="inset" component="li" />
-      </>
+      </div>
     );
   });
 
   return (
     <List
-      data-cy="wiki-search-list"
+      data-cy="wikisearch-list"
       sx={{ width: "100%", maxWidth: 360, bgcolor: "background.paper" }}
     >
       {searchResultsList}
